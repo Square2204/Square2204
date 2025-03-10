@@ -50,7 +50,7 @@ Major GPA: 3.531 / 4.0
   - Achieved 78.3% precision in rapid intensification prediction.
 - **Skills:** PyTorch, RNNs, CNNs, Deep Learning
 
-### Music Auto-complete
+### [Music Auto-complete](https://github.com/anson416/music-autocomplete)
 
 - **Description:** Created a system to extend music and transcribe audio.
 - **Contributions:** 
@@ -58,8 +58,6 @@ Major GPA: 3.531 / 4.0
   - Built automatic music transcription (audio to MIDI) with deterministic algorithms and transformers.
   - Developed a basic Digital Audio Workstation (DAW) with piano roll functionality.
 - **Skills:** Computer Music, Transformer Models
-
-*Note: Add repository links (e.g., `https://github.com/Square2204/project-name`) if these projects are hosted on GitHub.*
 
 ## Publications 📚
 
